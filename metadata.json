@@ -1,0 +1,6 @@
+{
+  "name": "ASHES",
+  "description": "Burn to Build: The digital sacrifice ritual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
